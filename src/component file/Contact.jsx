@@ -31,7 +31,7 @@ export default function Contact(props) {
             ></iframe>{" "}
             <h3>Our Socials:</h3>
             <div className="network">
-              <a
+              <a aria-label="instgrame"
                 target="_blank"
                 href="https://www.instagram.com/blue_arrowksa?igsh=MWl6ZGVzZ3c1YzNscQ=="
               >
@@ -39,20 +39,22 @@ export default function Contact(props) {
               </a>
               <a
                 target="_blank"
+                aria-label="linkedin"
                 href="https://www.linkedin.com/company/bluearrowksa/"
               >
                 <img src="imgs/linkedin.svg" alt="" />
               </a>
               <a
                 target="_blank"
+                aria-label="x aka twitter"
                 href="https://x.com/Blue_Arrowksa?t=-v3Jcdq5NyqaRfrN_9Y8iA&s=09"
               >
                 <img src="imgs/X.svg" alt="" />
               </a>
-              <a target="_blank" href="tel:+966-50-467-5153">
+              <a aria-label="a call" target="_blank" href="tel:+966-50-467-5153">
                 <img src="imgs/call.svg" alt="" />
               </a>
-              <a
+              <a aria-label="location"
                 target="_blank"
                 href="https://maps.app.goo.gl/tRgjgesdS8zPJ7m79"
               >
