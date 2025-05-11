@@ -67,7 +67,7 @@ export default function Header() {
       <header>
         <a href="#">
           <img
-            src="/public/imgs/logo.jpg"
+            src="imgs/logo.jpg"
             alt=""
             onClick={() =>
               scroll({
