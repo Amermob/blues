@@ -65,7 +65,7 @@ export default function Header() {
         <path d="M480-528 296-344l-56-56 240-240 240 240-56 56-184-184Z" />
       </svg>
       <header>
-        <a href="#">
+        <a href="#" aria-label="blue arrows logo">
           <img
             src="imgs/logo.jpg"
             alt=""
