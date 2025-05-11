@@ -4,7 +4,7 @@ export default function About(props) {
       <h2>{props.title}</h2>
       <div className="about-container">
         <div className="about">
-          <img src="/imgs/about.jpg" alt="" />
+          <img src="imgs/about.jpg" alt="" />
           <p>
             {" "}
             <span>What we Represent:</span> <br />
@@ -14,7 +14,7 @@ export default function About(props) {
         </div>
 
         <div className="vision">
-          <img src="/imgs/goal.jpg" alt="" />
+          <img src="imgs/goal.jpg" alt="" />
 
           <p>
             {" "}
@@ -25,7 +25,7 @@ export default function About(props) {
         </div>
 
         <div className="goal">
-          <img src="/imgs/vision.jpg" alt="" />
+          <img src="imgs/vision.jpg" alt="" />
 
           <p>
             {" "}
