@@ -446,6 +446,9 @@ section {
         -moz-border-radius: 10px;
         -ms-border-radius: 10px;
         -o-border-radius: 10px;
+        p {
+             margin-top: 10px;
+        }
 
         span {
             float: right;
