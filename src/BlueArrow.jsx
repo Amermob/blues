@@ -13,7 +13,7 @@ export default function BlueArrow() {
       <About title="About Us:" />
       <Services title="Our Services" />
       <Projects title="Projects" />
-      <Contact title="Contact" />
+      <Contact title="For Business and Inquiries" />
       <Footer />
     </>
   );
