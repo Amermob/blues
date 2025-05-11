@@ -19,7 +19,7 @@ export default function Contact(props) {
     <>
       <section className="contact">
         <h2>{props.title}</h2>
-        <img src="/imgs/contact.jpg" alt="" />
+        <img src="imgs/contact.jpg" alt="" />
         <div className="box">
           <div className="socials">
             <iframe
@@ -34,22 +34,22 @@ export default function Contact(props) {
                 target="_blank"
                 href="https://www.instagram.com/blue_arrowksa?igsh=MWl6ZGVzZ3c1YzNscQ=="
               >
-                <img src="/imgs/instagram.svg" alt="" />
+                <img src="imgs/instagram.svg" alt="" />
               </a>
               <a
                 target="_blank"
                 href="https://www.linkedin.com/company/bluearrowksa/"
               >
-                <img src="/imgs/linkedin.svg" alt="" />
+                <img src="imgs/linkedin.svg" alt="" />
               </a>
               <a
                 target="_blank"
                 href="https://x.com/Blue_Arrowksa?t=-v3Jcdq5NyqaRfrN_9Y8iA&s=09"
               >
-                <img src="/imgs/X.svg" alt="" />
+                <img src="imgs/X.svg" alt="" />
               </a>
               <a target="_blank" href="tel:+966-50-467-5153">
-                <img src="/imgs/call.svg" alt="" />
+                <img src="imgs/call.svg" alt="" />
               </a>
               <a
                 target="_blank"
@@ -57,7 +57,7 @@ export default function Contact(props) {
               >
                 <img
                   className="show-in-mobile"
-                  src="/imgs/location.svg"
+                  src="imgs/location.svg"
                   alt=""
                 />
               </a>
