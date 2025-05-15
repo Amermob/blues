@@ -51,7 +51,7 @@ export default function Contact(props) {
               >
                 <img src="imgs/X.svg" alt="" />
               </a>
-              <a aria-label="a call" target="_blank" href="tel:+966-50-467-5153">
+              <a aria-label="a call" target="_blank" href="tel:+966-55-565-2302">
                 <img src="imgs/call.svg" alt="" />
               </a>
               <a aria-label="location"
