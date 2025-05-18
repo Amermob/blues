@@ -66,7 +66,7 @@ export default function Contact(props) {
               </a>
             </div>
           </div>
-          <form action={formData} target="_blank" method="POST">
+          <form target="_blank" action="https://formspree.io/f/mknegpzg" method="POST">
             <label htmlFor="name">Name:</label>
             <input type="text" name="name:" id="name" required />
             <label htmlFor="e-mail">E-mail:</label>
@@ -76,7 +76,7 @@ export default function Contact(props) {
             <label htmlFor="from-who">Representative:</label>
             <input type="text" name="from-who:" id="from-who" />
             <label htmlFor="more-info">
-              For More Information Please Let Us Know:
+              For More Information, Please Let Us Know:
             </label>
             <textarea name="more-info:" id="more-info"></textarea>
             <button>Send</button>
